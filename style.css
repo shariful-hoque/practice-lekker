@@ -58,3 +58,46 @@ ul,ol{
     font-weight: 600;
     font-family:'Poppins', sans-serif;
 }
+
+/* banner part start */
+
+.banner{
+    background-color: #FCD4D1;
+    
+    
+}
+
+.banner_inner{
+    background: url(img/h1-rev2-img-2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 400px 0 80px;
+}
+
+.banner_inner h3{
+    font-size: 18px;
+    font-family:'Poppins', sans-serif ;
+}
+
+.banner_inner h1{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    line-height: 69px;
+    padding-top: 17px;
+    padding-bottom: 40px;
+}
+
+.banner_inner a {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    padding: 21px 40px;
+    background: #1F1F1F;
+    color: #fff;
+    font-weight: 700;
+}
+
+.banner_inner a:hover{
+    background: #FAEE31;
+    color: #000;
+}
