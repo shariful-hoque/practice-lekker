@@ -21,3 +21,40 @@ ul,ol{
     width: 1280px;
     margin: 0 auto;
 }
+
+.header{
+    background-color: #FCD4D1;
+}
+
+.header_main{
+    display: flex;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 30%;
+}
+
+.logo a span{
+    color: #000;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.menu{
+    width: 70%;
+}
+
+.menu ul{
+    text-align: right;
+    padding-top: 12px;
+}
+
+.menu ul li{
+    display: inline-block;
+    padding-left: 26px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family:'Poppins', sans-serif;
+}
